@@ -15,5 +15,5 @@ Versión de Python: 3.14.4
 
 
 
-NOTA! : Pido una disculpa por el "demofile.txt" el problema 22 no me deja mover el archivo sin que me tire   error y cuando intento abrirlo de otra manera tampoco me deja, disculpe las molestias.
-Tambien algunas definiciones en funciones o librerias de python las investigue en Google o youtube perdone.
+NOTA! : Pido una disculpa por el "demofile.txt" y el "numeros_013" el problema 22 y 13 no me deja mover el archivo sin que me tire error y cuando intento abrirlo de otra manera tampoco me deja, disculpe las molestias.
+Tambien algunas definiciones en funciones o librerias de python las investigue en Google o youtube perdone esa molestia, cualquier duda puede comunicarse con mi persona
